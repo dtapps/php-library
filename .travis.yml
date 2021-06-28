@@ -1,0 +1,10 @@
+language: php
+php:
+  - '7.2'
+script:
+  - composer update -vvv
+branches:
+  only:
+    - v6
+after_success:
+  - bash <(curl -s https://codecov.io/bash)
