@@ -23,7 +23,7 @@
     "psr/container": "~1.0"
   },
   "autoload": {
-    "file": [
+    "files": [
       "DtaContainer.php"
     ]
   }
