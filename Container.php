@@ -7,13 +7,13 @@ use Psr\Container\ContainerInterface;
 /**
  * 容器管理类 支持PSR-11
  * 代码参考ThinkPHP6的Container.php
- * Class Container
+ * Class DtaContainer
  */
-class Container implements ContainerInterface
+class DtaContainer implements ContainerInterface
 {
     /**
      * 容器对象实例
-     * @var Container|Closure
+     * @var DtaContainer|Closure
      */
     protected static $instance;
 
