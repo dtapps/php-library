@@ -9,13 +9,16 @@
 
 [comment]: <> (php)
 [![PHP Version](https://img.shields.io/badge/php-%3E%3D7.2-8892BF.svg)](http://www.php.net/)
-[![godoc](https://pkg.go.dev/badge/github.com/dtapps/php-library?status.svg)](https://pkg.go.dev/github.com/dtapps/php-library)
 
 [comment]: <> (packagist.org)
 [![License](https://poser.pugx.org/dtapps/php-library/license)](https://packagist.org/packages/dtapps/php-library)
 [![Latest Stable Version](https://poser.pugx.org/dtapps/php-library/v/stable)](https://packagist.org/packages/dtapps/php-library)
 [![Latest Unstable Version](https://poser.pugx.org/dtapps/php-library/v/unstable)](https://packagist.org/packages/dtapps/php-library)
 [![Total Downloads](https://poser.pugx.org/dtapps/php-library/downloads)](https://packagist.org/packages/dtapps/php-library)
+
+[comment]: <> (hn.devcloud.huaweicloud.com)
+[![Code Health](https://hn.devcloud.huaweicloud.com/codecheck/v1/codecheck/task/codehealth.svg?taskId=ebd1215746ef4392b167d4ecf5780a4f)](https://hn.devcloud.huaweicloud.com/codecheck/project/b7a03c9ea96e40cb93fed6e23a27a7be/codecheck/task/ebd1215746ef4392b167d4ecf5780a4f/detail)
+[![Build Status](https://hn.devcloud.huaweicloud.com/codeci/v5/badge.svg?job_id=6d2fbe31e48a42aa8beab844aa6c11a4&branch=master&language=zh-cn)](https://hn.devcloud.huaweicloud.com/codeci/project/b7a03c9ea96e40cb93fed6e23a27a7be/codeci/detail/workspace/6d2fbe31e48a42aa8beab844aa6c11a4)
 
 [comment]: <> (github.com)
 [![watchers](https://badgen.net/github/watchers/dtapps/php-library)](https://github.com/dtapps/php-library/watchers)
