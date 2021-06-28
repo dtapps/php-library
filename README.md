@@ -54,17 +54,6 @@
 [comment]: <> (gitlab.com)
 [![gitlab (.com)](https://gitlab.com/dtapps/php-library/badges/master/pipeline.svg)](https://gitlab.com/dtapps/php-library)
 
-## 依赖环境
-
-1. PHP7.1 版本及以上
-
-## 托管
-
-- 国外仓库地址：[https://github.com/dtapps/php-library](https://github.com/dtapps/php-library)
-- 国内仓库地址：[https://gitee.com/dtapps/php-library](https://gitee.com/dtapps/php-library)
-- Packagist
-  地址：[https://packagist.org/packages/dtapps/php-library](https://packagist.org/packages/dtapps/php-library)
-  
 ### 安装
 
 ```php
