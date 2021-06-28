@@ -28,7 +28,7 @@
 [![branches](https://badgen.net/github/branches/dtapps/php-library)](https://github.com/dtapps/php-library/branches)
 [![releases](https://badgen.net/github/releases/dtapps/php-library)](https://github.com/dtapps/php-library/releases)
 [![tags](https://badgen.net/github/tags/dtapps/php-library)](https://github.com/dtapps/php-library/tags)
-[![license](https://badgen.net/github/license/dtapps/php-library)](https://github.com/dtapps/php-library/blob/v6/LICENSE)
+[![license](https://badgen.net/github/license/dtapps/php-library)](https://github.com/dtapps/php-library/blob/master/LICENSE)
 [![contributors](https://badgen.net/github/contributors/dtapps/php-library)](https://github.com/dtapps/php-library/CONTRIBUTING.md)
 [![GitHub release (latest SemVer)](https://img.shields.io/github/v/release/dtapps/php-library)](https://github.com/dtapps/php-library/releases)
 [![GitHub tag (latest SemVer)](https://img.shields.io/github/v/tag/dtapps/php-library)](https://github.com/dtapps/php-library/tags)
@@ -41,18 +41,18 @@
 [![GitHub top language](https://img.shields.io/github/languages/top/dtapps/php-library)](https://github.com/dtapps/php-library)
 
 [comment]: <> (scrutinizer-ci.com)
-[![Scrutinizer build (GitHub/Bitbucket)](https://img.shields.io/scrutinizer/build/g/dtapps/php-library/v6)](https://scrutinizer-ci.com/g/dtapps/php-library)
-[![Scrutinizer coverage (GitHub/BitBucket)](https://img.shields.io/scrutinizer/coverage/g/dtapps/php-library/v6)](https://scrutinizer-ci.com/g/dtapps/php-library)
-[![Scrutinizer code quality (GitHub/Bitbucket)](https://img.shields.io/scrutinizer/quality/g/dtapps/php-library/v6)](https://scrutinizer-ci.com/g/dtapps/php-library)
+[![Scrutinizer build (GitHub/Bitbucket)](https://img.shields.io/scrutinizer/build/g/dtapps/php-library/master)](https://scrutinizer-ci.com/g/dtapps/php-library)
+[![Scrutinizer coverage (GitHub/BitBucket)](https://img.shields.io/scrutinizer/coverage/g/dtapps/php-library/master)](https://scrutinizer-ci.com/g/dtapps/php-library)
+[![Scrutinizer code quality (GitHub/Bitbucket)](https://img.shields.io/scrutinizer/quality/g/dtapps/php-library/master)](https://scrutinizer-ci.com/g/dtapps/php-library)
 
 [comment]: <> (www.travis-ci.com)
-[![Travis (.com) branch](https://img.shields.io/travis/com/dtapps/php-library/v6)](https://www.travis-ci.com/github/dtapps/php-library)
+[![Travis (.com) branch](https://img.shields.io/travis/com/dtapps/php-library/master)](https://www.travis-ci.com/github/dtapps/php-library)
 
 [comment]: <> (app.codecov.io)
-[![Codecov branch](https://img.shields.io/codecov/c/github/dtapps/php-library/v6)](https://app.codecov.io/gh/dtapps/php-library)
+[![Codecov branch](https://img.shields.io/codecov/c/github/dtapps/php-library/master)](https://app.codecov.io/gh/dtapps/php-library)
 
 [comment]: <> (gitlab.com)
-[![gitlab (.com)](https://gitlab.com/dtapps/php-library/badges/v6/pipeline.svg)](https://gitlab.com/dtapps/php-library)
+[![gitlab (.com)](https://gitlab.com/dtapps/php-library/badges/master/pipeline.svg)](https://gitlab.com/dtapps/php-library)
 
 ## 依赖环境
 
