@@ -2,20 +2,12 @@
 
 declare (strict_types=1);
 
-namespace dtapps\library;
-
-use Closure;
-use Exception;
-use InvalidArgumentException;
 use Psr\Container\ContainerInterface;
-use ReflectionClass;
-use ReflectionException;
-use ReflectionFunction;
-use ReflectionFunctionAbstract;
 
 /**
  * 容器管理类 支持PSR-11
  * 代码参考ThinkPHP6的Container.php
+ * Class Container
  */
 class Container implements ContainerInterface
 {
