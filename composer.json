@@ -20,11 +20,18 @@
   "require": {
     "php": ">=7.2",
     "ext-mbstring": "*",
+    "ext-ctype": "*",
     "psr/container": "~1.0"
   },
   "autoload": {
+    "classmap": [
+      "DtaContainer.php"
+    ],
     "files": [
       "DtaContainer.php"
-    ]
+    ],
+    "psr-4": {
+      "dtapps\\library\\": "src"
+    }
   }
 }
